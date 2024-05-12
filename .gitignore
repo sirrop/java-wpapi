@@ -1,0 +1,13 @@
+/**/.settings
+/**/.project
+/**/extras/
+/**/.idea/
+/**/*.iml
+/**/target/
+/**/pom.xml~
+/atlassian-ide-plugin.xml
+/**/*.yaml
+/.classpath
+/**/.build
+.build
+.gradle

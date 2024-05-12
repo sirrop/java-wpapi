@@ -1,0 +1,7 @@
+dependencies {
+    implementation 'com.google.code.gson:gson:2.10.1'
+    implementation 'com.google.guava:guava:33.2.0-jre'
+    implementation 'org.slf4j:slf4j-api:1.7.25'
+    implementation project(':core')
+    testImplementation 'org.slf4j:slf4j-simple:1.7.25'
+}
